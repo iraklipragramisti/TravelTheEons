@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TravelTheEons/static/css/main.ff54652b.chunk.css",
+    "main.js": "/TravelTheEons/static/js/main.506c1662.chunk.js",
+    "main.js.map": "/TravelTheEons/static/js/main.506c1662.chunk.js.map",
+    "runtime-main.js": "/TravelTheEons/static/js/runtime-main.20055bbf.js",
+    "runtime-main.js.map": "/TravelTheEons/static/js/runtime-main.20055bbf.js.map",
+    "static/js/2.8549db00.chunk.js": "/TravelTheEons/static/js/2.8549db00.chunk.js",
+    "static/js/2.8549db00.chunk.js.map": "/TravelTheEons/static/js/2.8549db00.chunk.js.map",
+    "static/js/3.b8f0e5bf.chunk.js": "/TravelTheEons/static/js/3.b8f0e5bf.chunk.js",
+    "static/js/3.b8f0e5bf.chunk.js.map": "/TravelTheEons/static/js/3.b8f0e5bf.chunk.js.map",
+    "index.html": "/TravelTheEons/index.html",
+    "static/css/main.ff54652b.chunk.css.map": "/TravelTheEons/static/css/main.ff54652b.chunk.css.map",
+    "static/js/2.8549db00.chunk.js.LICENSE.txt": "/TravelTheEons/static/js/2.8549db00.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/TravelTheEons/static/media/GothicA1-SemiBold.4ea41f44.ttf",
+    "static/media/menu.c21acb3a.svg": "/TravelTheEons/static/media/menu.c21acb3a.svg",
+    "static/media/old-compass-logo.217f2923.svg": "/TravelTheEons/static/media/old-compass-logo.217f2923.svg",
+    "static/media/x.ba58a094.svg": "/TravelTheEons/static/media/x.ba58a094.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20055bbf.js",
+    "static/js/2.8549db00.chunk.js",
+    "static/css/main.ff54652b.chunk.css",
+    "static/js/main.506c1662.chunk.js"
+  ]
+}

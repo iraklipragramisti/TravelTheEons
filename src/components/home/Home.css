@@ -1,0 +1,27 @@
+.regions {
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+  margin-left: -40px;
+  padding-top: 5rem;
+}
+
+.region {
+  color: black;
+}
+
+
+
+@media (max-width: 1499px){
+  .regions{
+    flex-direction: column;
+  }
+  .regions li{
+    display: flex;
+    justify-content: center;
+
+  }
+  .region{
+    margin-top: 3rem;
+  }
+}

@@ -1,0 +1,47 @@
+.contact{
+  margin-top:20px;
+  font-size: 2rem;
+}
+
+.home-ul{
+  list-style: none;
+  display: flex;
+  align-items: center;
+  margin-top: -30px;
+  justify-content: center;
+  padding-right: 45px;
+}
+
+.home-ul li{
+  padding: 10px;
+  color: #79d490;
+}
+
+.phone-ul{
+  list-style: none;
+  display: flex;
+  margin-top: -20px;
+  align-items: center;
+  justify-content: center;
+  padding-right: 50px;
+}
+
+.phone-ul li{
+  padding: 10px;
+  color: #79d490;
+}
+
+
+.mail-ul{
+  list-style: none;
+  display: flex;
+  align-items: center;
+  margin-top: -20px;
+  justify-content: center;
+  padding-right: 45px;
+}
+
+.mail-ul li{
+  padding: 10px;
+  color: #79d490;
+}

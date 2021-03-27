@@ -1,0 +1,15 @@
+  *{
+    z-index: 150;
+  }
+
+  h1{
+    font-size: 4rem;
+    color: #79d490;
+  }
+
+  p{
+    font-size: 2rem;
+    padding: 1rem;
+    color: #79d490;
+  }
+
